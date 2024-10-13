@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rithvikshetty2004@gmail.com**
 
-- Visit my site **rithvikshetty.inm**
+- Visit my site **rithvikshetty.in**
 
 - ⚡ Fun fact **I don't know how to code**
 
