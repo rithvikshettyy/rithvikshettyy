@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rithvikshetty2004@gmail.com**
 
-- ⚡ Fun fact **I don't know how to code**
+- ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
