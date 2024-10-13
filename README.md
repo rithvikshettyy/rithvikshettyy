@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **rithvikshetty2004@gmail.com**
 
-- Visit my site **rithvikshetty.in**
-
 - ⚡ Fun fact **I don't know how to code**
 
 <h3 align="left">Connect with me:</h3>
