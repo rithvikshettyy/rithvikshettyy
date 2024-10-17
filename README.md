@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in **SIESGST'26**
 
-- 👯 I’m currently building My portfolio website **rithvikshetty.in**
+- 👯 I’m currently building my portfolio website **https://rithvikshetty.in**
 
 - 📫 How to reach me **rithvikshetty2004@gmail.com**
 
