@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" /> I'm Rithvik Shetty</h1>
 <h3 align="center">A passionate student programmer and ML Enthusiast with a drive for traveling</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritxvik&label=Profile%20views&color=0e75b6&style=flat" alt="ritxvik" /> </p>
+<img src="assets/images/Eyes.png" width="25"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritxvik&label=Profile%20views&color=0e75b6&style=flat" alt="ritxvik" /> </p>
 
-- 🔭 I’m currently studying in **SIESGST'26**
+- 🔭 I’m currently studying in **SIESGST'26** <img src="assets/images/Comet.png" width="30">
 
 - 👯 I’m currently building my portfolio website **https://rithvikshetty.in**
 
