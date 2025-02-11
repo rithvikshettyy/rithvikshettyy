@@ -11,6 +11,18 @@
 
 - ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
 
+  ## Work & Education <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width="30"/>
+
+- <img src="assets/images/School.png" width="25"> **BRAC University**:
+  - **Completing Bachelor of Science Degree in Computer Science and Engineering**
+    - January 28, 2022 (Present)
+- <img src="assets/images/Computer Mouse.png" width="25"> **LeftKlick**:
+  - **Former Co-founder • Graphics Designer**
+    - August 15, 2021 – May 22, 2022.
+- <img src="assets/images/Video Game.png" width="25"> **Arekta Coin Store**:
+  - **Former Co-founder • Graphics Designer**
+    - June 2, 2020 – November 2, 2021.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rithvikshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithvikshetty" height="30" width="40" /></a>
