@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" /> I'm Rithvik Shetty</h1>
 <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="25" height="25" /> A passionate student programmer and ML Enthusiast with a drive for traveling</h3>
 
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="25" /> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritxvik&label=Profile%20views&color=0e75b6&style=flat" alt="ritxvik" /> </p>
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="25" /> <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=ritxvik&label=Profile%20views&color=0e75b6&style=flat" alt="ritxvik" /> </p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> I’m currently studying in **SIESGST'26**
 
