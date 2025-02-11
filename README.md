@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rithvikshetty2004@gmail.com**
 
-- img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flashlight.png" alt="Flashlight" width="25" height="25"/>" Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flashlight.png" alt="Flashlight" width="25" height="25"/>" Fun fact **Code is like humor. When you have to explain it, it’s bad.**
 
   ## Work & Education <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width="30"/>
 
