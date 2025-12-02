@@ -17,6 +17,11 @@
 - <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/School.png" width="25"/> **SIES Graduate School Of Technology, Nerul**:
   - **Completing Bachelor of Engineering in Artificial Intelligence and Machine Learning**
     - November 07, 2022 (Present)
+
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Computer%20Mouse.png" width="25"/> **ION Chemicals**:
+  - **ML Intern**
+    - June 2, 2024 – August 2, 2024.
+      
 - <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Computer%20Mouse.png" width="25"/> **Irsya Clothing**:
   - **Senior Designer • Graphics Designer**
     - August 15, 2024 – May 22, 2024.
