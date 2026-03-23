@@ -1,8 +1,7 @@
 <div align="center">
 
+# Rithvik Shetty 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="32" />
-
-# Rithvik Shetty
 
 **Full Stack Developer & Freelancer**
 
