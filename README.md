@@ -1,51 +1,124 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" /> I'm Rithvik Shetty</h1>
-<h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" alt="Battery" width="25" height="25" /> A passionate student programmer and ML Enthusiast with a drive for traveling</h3>
+<div align="center">
 
-<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="25" /> <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=ritxvik&label=Profile%20views&color=0e75b6&style=flat" alt="ritxvik" /> </p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="32" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> I’m currently studying in **SIESGST'26**
+# Rithvik Shetty
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> I’m currently building my portfolio website **https://rithvikshetty.in**
+**Full Stack Developer & Freelancer**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox Tray" width="25" height="25" /> How to reach me **rithvikshetty2004@gmail.com**
+*Crafting digital experiences with code and creativity.*
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Flashlight.png" alt="Flashlight" width="25" height="25"/> Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+<br/>
 
-  ## Work & Education <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" width="30"/>
+[![Portfolio](https://img.shields.io/badge/rithvikshetty.in-111?style=flat-square&logo=safari&logoColor=white)](https://rithvikshetty.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rithvikshetty)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rithvikshettyy)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white)](https://x.com/RithvikShetty04)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rithv1k7)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rithvikshetty2004@gmail.com)
 
-- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/School.png" width="25"/> **SIES Graduate School Of Technology, Nerul**:
-  - **Completing Bachelor of Engineering in Artificial Intelligence and Machine Learning**
-    - November 07, 2022 (Present)
+![Profile Views](https://komarev.com/ghpvc/?username=rithvikshettyy&color=444&style=flat-square&label=profile+views)
 
-- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Computer%20Mouse.png" width="25"/> **ION Chemicals**:
-  - **ML Intern**
-    - June 2, 2024 – August 2, 2024.
-      
-- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Computer%20Mouse.png" width="25"/> **Irsya Clothing**:
-  - **Senior Designer • Graphics Designer**
-    - August 15, 2024 – May 22, 2024.
-- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Computer%20Mouse.png" width="25"/> **BM's Drishtency**:
-  - **Senior Designer • Graphics Designer**
-    - June 2, 2024 – August 2, 2024.
-   
+</div>
 
-## Things I like to do in my free time <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/T-Rex.png" width="30"/>
+<br/>
 
-- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Check%20Mark%20Button.png" width="15"/> **Coding** <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="25"/>
-- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Check%20Mark%20Button.png" width="15"/> **Spotify** <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Musical%20Notes.png" width="25"/> `I am a fan!`
-- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Cross%20Mark.png" width="15"/> Procastination <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fish%20Cake%20with%20Swirl.png" width="25"/> `Never stopped tbh`
+```
+B.E. Artificial Intelligence & Machine Learning · SIESGST '26
+Full stack developer · ML enthusiast · Occasional traveller
+Available for freelance
+```
 
-    
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rithvikshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithvikshetty" height="30" width="40" /></a>
-<a href="https://instagram.com/_ritxvik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ritxvik_" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Experience <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" />
 
+**Lupin Ltd** &nbsp;·&nbsp; Salesforce & Marketing Automation Intern &nbsp;·&nbsp; `Dec 2025 – Feb 2026`
 
+**ION Chemicals** &nbsp;·&nbsp; Machine Learning Intern &nbsp;·&nbsp; `Jan 2025 – Apr 2025`
 
-### Thanks for visiting!&nbsp;<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Partying%20Face.png" width="25"/>
+**BM's Drishtency** &nbsp;·&nbsp; Graphic Designer &nbsp;·&nbsp; `Feb 2024 – Mar 2024`
+
+**AASK Retail LLP** &nbsp;·&nbsp; Graphic Designer &nbsp;·&nbsp; `Jan 2024 – Feb 2024`
+
+<br/>
+
+## Highlights <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" />
+
+- 🏆 &nbsp;**Title Winner** — Most Product Readiness Award · HackCelestial 2.0 *(250+ participants, Sep 2025)*
+- 🚀 &nbsp;**Conquer Space** — Inter-Collegiate Exhibition in presence of Dr. V. Narayanan, Chairman of ISRO *(Oct 2025)*
+- 🥇 &nbsp;**First Position** — Cognition'24 · SIESGST *(2024–25)*
+- 🛠️ &nbsp;**Technical Head** — Student Council · SIESGST *(2024–25)*
+
+<br/>
+
+## Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" />
+
+| Project | Description | Year |
+|---------|-------------|------|
+| [**TinyRoomConcert**](https://tinyroomconcert.vercel.app) | Immersive platform for intimate live music sessions | 2026 |
+| [**TRCT.IN**](https://trct-in.vercel.app) | Community platform for a run club in Thane | 2026 |
+| [**AutopharmaX**](https://github.com/rithvikshettyy/autopharmax) | AI-driven platform for drug efficacy analysis & treatment optimization | 2026 |
+| [**SeaGuard**](https://github.com/rithvikshettyy/SeaGuard) | React Native app with SARVAM AI integration & Twilio comms | 2025 |
+| [**LoopList**](https://github.com/rithvikshettyy/LoopList-Collaborative-ToDo-app-using-Firebase-and-Streamlit) | Real-time collaborative to-do app with Firebase | 2024 |
+| [**Object Measurement**](https://github.com/rithvikshettyy/Object-Measurement) | OpenCV-based object dimension measurement from images | 2024 |
+
+<br/>
+
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" />
+
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Web & Frameworks** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+
+**Data & ML** &nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Databases** &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Design & CRM** &nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+<br/>
+
+## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20" />
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rithvikshettyy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
+&nbsp;
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvikshettyy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="16" /> &nbsp;Spotify on repeat &nbsp;·&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" width="16" /> &nbsp;Planning the next trip
+
+<br/>
+
+*Thanks for visiting* &nbsp;<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Partying%20Face.png" width="20"/>
+
+</div>
