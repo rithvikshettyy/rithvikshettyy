@@ -70,20 +70,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=rithvikshettyy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rithvikshettyy&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvikshettyy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Contribution Graph
 
 <br/>
