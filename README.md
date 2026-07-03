@@ -21,8 +21,6 @@
 
 </div>
 
-> 💙 *"B.E. AI & ML, SIES GST '26 — building full stack products, freelancing under Vantage Inc., open to full-time roles."*
-
 🎓 **B.E. AI & ML, SIES GST '26** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **Building Vantage Inc.**
 
 ---
