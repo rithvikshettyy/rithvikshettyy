@@ -25,7 +25,7 @@
 
 🎓 **B.E. AI & ML, SIES GST '26** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **Building Vantage Inc.**
 
-</div?
+</div>
 
 ---
 
