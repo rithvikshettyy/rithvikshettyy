@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Vantage+Inc.+%F0%9F%92%BB;AI+%26+ML+Graduate+%F0%9F%A4%96;Shipping+Real+Products+%E2%9A%A1;Open+to+Full-Time+Roles+%F0%9F%94%97" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Building+Vantage+Inc.;AI+%26+ML+Graduate;Shipping+Real+Products;Open+to+Full-Time+Roles" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -17,13 +17,13 @@
 
 <div align="center">
 
-## 👋 Hi, I'm Rithvik Shetty!
+## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" width="24" /> Hi, I'm Rithvik Shetty!
 
 </div>
 
 <div align="center">
 
-🎓 **B.E. AI & ML, SIES GST '26** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **Building Vantage Inc.**
+<img src="https://unpkg.com/lucide-static@latest/icons/graduation-cap.svg" width="18" /> **B.E. AI & ML, SIES GST '26** &nbsp;|&nbsp; <img src="https://unpkg.com/lucide-static@latest/icons/code.svg" width="18" /> **Full-Stack Developer** &nbsp;|&nbsp; <img src="https://unpkg.com/lucide-static@latest/icons/rocket.svg" width="18" /> **Building Vantage Inc.**
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-## 🧠 Projects
+## <img src="https://unpkg.com/lucide-static@latest/icons/folder-git-2.svg" width="24" /> Projects
 
 <br/>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://unpkg.com/lucide-static@latest/icons/wrench.svg" width="24" /> Tech Stack & Tools
 
 <br/>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
+## <img src="https://unpkg.com/lucide-static@latest/icons/trending-up.svg" width="24" /> Contribution Graph
 
 <br/>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## <img src="https://unpkg.com/lucide-static@latest/icons/git-commit-vertical.svg" width="24" /> Contribution Snake
 
 <br/>
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-## 🌐 Let's Connect!
+## <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="24" /> Let's Connect!
 
 <br/>
 
@@ -112,6 +112,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563eb&height=130&section=footer&text=Keep+Shipping+%F0%9F%9A%80&fontSize=20&fontColor=cbd5e1&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563eb&height=130&section=footer&text=Keep+Shipping&fontSize=20&fontColor=cbd5e1&animation=twinkling&fontAlignY=65" />
 
 </div>
